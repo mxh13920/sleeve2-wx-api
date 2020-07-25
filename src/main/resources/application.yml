@@ -1,0 +1,6 @@
+server:
+  port: 80
+
+
+sleeve:
+  prefix: com.mxh.sleeve2wxapi.api
